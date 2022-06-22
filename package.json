@@ -41,7 +41,7 @@
   "dependencies": {
     "@types/async": "^3.2.5",
     "@types/redis": "^2.8.28",
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "dotenv": "^8.2.0",
     "kafka-node": "^5.0.0",
     "redis": "^3.0.2"
